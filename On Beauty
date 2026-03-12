@@ -1,30 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Your Site Name</title>
-
-<style>
-body{
-font-family: Georgia, serif;
-max-width: 600px;
-margin: 60px auto;
-line-height: 1.6;
-}
-a{color:black;}
-</style>
-
-</head>
-
 <body>
 
-<h1>Your Site Name</h1>
-
-<p>Writing about exhibitions and artists.</p>
-
-<p>
-<a href="review1.html">Review: Artist Name</a><br>
-<a href="review2.html">Review: Exhibition Title</a>
-</p>
+<p>This is a line of text.</p>
+<p>This is another line.</p>
+<p>Any words you want can go here.</p>
 
 </body>
 </html>
